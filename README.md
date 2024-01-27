@@ -21,3 +21,6 @@ npx parcel index.html
 git add . && git commit -m 'added project requirements successfully running' && git push  ```
 
 ```npm i react-router-dom```
+
+```git add . && git commit -m 'added about pg contact page and react dom router' && git push```
+

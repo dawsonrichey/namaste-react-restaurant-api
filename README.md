@@ -17,3 +17,7 @@ npm install
 ```
 npx parcel index.html
 ```
+```
+git add . && git commit -m 'added project requirements successfully running' && git push  ```
+
+```npm i react-router-dom```

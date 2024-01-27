@@ -5,7 +5,6 @@ Namaste React Restaurant API Project
 ```
 git add . && git commit -m 'added gitignore file' && git push
 ```
-
 ```
 git add . && git commit -m 'added readme file' && git push
 ```
